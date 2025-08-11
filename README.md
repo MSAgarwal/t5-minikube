@@ -19,7 +19,8 @@ minikube start --driver=docker --cpus=2 --memory=4096
 minikube status
 ````
 
-**Screenshot:** ![Minikube Status](screenshots/01_minikube_status.png)
+**Screenshot:** 
+![Minikube Status](screenshots/01_minikube_status.png)
 
 ---
 
@@ -87,9 +88,9 @@ kubectl get svc
 
 **Screenshots:**
 
-* `screenshots/02_apply.png` — applying manifests
-* `screenshots/03_get_pods.png` — pods running
-* `screenshots/04_get_svc.png` — service details
+* ![Minikube Status](screenshots/02_apply.png) — applying manifests
+* ![Minikube Status](screenshots/03_get_pods.png) — pods running
+* ![Minikube Status](screenshots/04_get_svc.png) — service details
 
 ---
 
@@ -100,7 +101,8 @@ minikube service nginx-service --url
 ```
 
 Open the displayed URL in a browser.
-**Screenshot:** `screenshots/07_dashboard.png`
+**Screenshot:**
+![Minikube Status](screenshots/07_dashboard.png)
 
 ---
 
@@ -122,7 +124,7 @@ kubectl logs <pod-name>
 
 **Screenshots:**
 
-* `screenshots/05_describe_pod.png` — pod details/events
+![Minikube Status](screenshots/05_describe_pod.png) — pod details/events
 
 ---
 
