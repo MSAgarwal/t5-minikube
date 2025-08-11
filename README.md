@@ -19,7 +19,7 @@ minikube start --driver=docker --cpus=2 --memory=4096
 minikube status
 ````
 
-**Screenshot:** `screenshots/01_minikube_status.png`
+**Screenshot:** screenshots/01_minikube_status.png
 
 ---
 
