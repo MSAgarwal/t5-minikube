@@ -20,6 +20,7 @@ minikube status
 ````
 
 **Screenshot:** 
+
 ![Minikube Status](screenshots/01_minikube_status.png)
 
 ---
@@ -101,7 +102,9 @@ minikube service nginx-service --url
 ```
 
 Open the displayed URL in a browser.
+
 **Screenshot:**
+
 ![Minikube Status](screenshots/07_dashboard.png)
 
 ---
